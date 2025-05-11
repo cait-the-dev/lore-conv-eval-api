@@ -25,6 +25,6 @@ jobs:
           poetry run black --check .
           poetry run mypy app/ services/
       - name: Run tests
-        run: poetry run pytest --cov=app --cov=services
+        run: poetry run pytest -q 
       - name: Build Docker image (cache‑only)
         run: docker build -t lore-conv-api:ci -f infrastructure/docker/Dockerfile .
