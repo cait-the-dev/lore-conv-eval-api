@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lore-conv-api
+  labels:
+    app: lore-conv-api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: lore-conv-api
+  template:
+    metadata:
+      labels:
+        app: lore-conv-api
+    spec:
+      containers:
+        - name: api
+          image: ghcr.io/cait-the-dev/lore-conv-eval-api:latest
+          ports:
+            - containerPort: 8000
+          envFrom:
+            - secretRef:
+                name: lore-conv-secrets
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "256Mi"
+            limits:
+              cpu: "500m"
+              memory: "1Gi"
+          readinessProbe:
+            httpGet:
+              path: /docs
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 15
+          livenessProbe:
+            httpGet:
+              path: /docs
+              port: 8000
+            initialDelaySeconds: 20
+            periodSeconds: 30
