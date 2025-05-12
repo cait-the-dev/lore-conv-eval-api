@@ -3,33 +3,41 @@ name = "lore-conv-eval-api"
 version = "0.1.0"
 description = "Conversational Evaluation API for Lore panel interview"
 authors = ["Caitlin Arnspiger <caitthedev@gmail.com>"]
-packages = [{ include = "app" }]
+packages = [
+    { include = "app" },
+    { include = "labeling_pipeline" }
+]
 readme = "README.md"
 license = "MIT"
 
 [[tool.poetry.source]]
-name = "pytorchcpu"
+name = "torch"
 url = "https://download.pytorch.org/whl/cpu"
 priority = "supplemental"
 
 [tool.poetry.dependencies]
-python = "^3.10"
-
+python = ">=3.10, <3.12"
+torch  = "2.2.2"
+accelerate = "^0.27"
 fastapi = "^0.110.0"
 uvicorn = { extras = ["standard"], version = "^0.29.0" }
-
 pydantic = "^2.7.0"
 pydantic-settings = "^2.2"
+datasets = "^2.19"
 sentence-transformers = "^2.6.1"
 transformers = "^4.40.0"
-torch = { version = "==2.2.2", source = "pytorchcpu", optional = true }
 joblib = "^1.4.2"
+openai = "^1.23.0"
+scikit-learn = "^1.5.0"
+pandas = "^2.2.2" 
+tqdm = "^4.66.4"
 
 neo4j = { version = "^5.19.0", optional = true }
 pgvector = { version = "^0.2.5", optional = true }
+qdrant-client = "^1.9"
 
 [tool.poetry.extras]
-gpu = ["torch"]
+# gpu = ["torch"]
 graph = ["neo4j", "pgvector"]
 
 [tool.poetry.group.dev.dependencies]

@@ -9,6 +9,7 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+docs/*
 
 models/*
 !models/**/.gitattributes  # keep LFS pointers / config

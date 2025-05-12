@@ -34,3 +34,14 @@ compose:
 
 clean:
 	rm -rf __pycache__ .pytest_cache .mypy_cache .ruff_cache
+
+labels:
+	poetry run python -m labeling_pipeline.heuristic --max-calls 5000
+	poetry run python -m labeling_pipeline.llm       --max-calls 1000
+	poetry run python -m labeling_pipeline.merge
+
+rag-index:
+     poetry run python scripts/build_qdrant_index.py --mode rag --collection belief_rag
+ctx-index:
+     poetry run python scripts/build_qdrant_index.py --mode context --collection belief_ctx
+

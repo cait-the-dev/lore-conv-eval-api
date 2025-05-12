@@ -1,0 +1,293 @@
+conversation,facet,answer_text,confidence
+"Hello StoryBot, I’m having a tough time with this app. My fingers aren’t what they used to be. Can you help me?",Support Utilization,Can you help me?,0.85
+"I’d appreciate that. My grandson usually helps, but he’s busy with school lately. I feel so helpless.",Social Connectedness,My grandson usually helps,0.85
+I’d like to read the daily stories! They used to lift my spirits.,Optimism,They used to lift my spirits,0.85
+"I managed to get to the stories! But I’m feeling a bit down today. My health has been off, and I’m worried about my family.",Self-Efficacy,,0.55
+"Well, I had a fall last week, and it shook me up. I remember back in the day, I slipped in the kitchen while baking. I thought I broke my hip then, but I learned to always be careful and mindful. That taught me to value my health and strength.",Physical Safety,,0.55
+"I talked to my daughter about it. She said I should consider moving into assisted living, but I don’t want to leave my home.",Social Connectedness,I talked to my daughter,0.9
+"My garden is beautiful, and I love my cozy chair by the window. But, I guess I worry about being safe alone.",Physical Safety,I guess I worry about being safe alone,0.9
+"Yes, please! I want to stay here for as long as I can.",Self-Efficacy,,0.55
+That sounds manageable! I’ll talk to my daughter about it. Thank you for being so helpful!,Social Connectedness,I’ll talk to my daughter about it,0.85
+"Not yet! I’ll give that a try. Meanwhile, my knees are acting up again. It’s hard to get up and down.",Health Agency,I’ll give that a try,0.85
+"I used to enjoy painting, but it’s been a long time. Maybe I’ll pick it up again…",Growth Mindset,Maybe I’ll pick it up again,0.85
+"Mostly landscapes. I loved capturing the colors of sunsets. Speaking of colors, what do you think about life? What's the point of all this?",Purpose,What's the point of all this?,0.85
+"I suppose it’s about those connections, but sometimes I feel lonely, even with family nearby.",Social Connectedness,"I feel lonely, even with family nearby",0.9
+I did! My granddaughter called me yesterday. We talked for an hour about her new job.,Social Connectedness,My granddaughter called me yesterday. We talked for an hour,0.9
+It made me feel happy! Family can be a great comfort. Just wish I could do more things with them.,Social Connectedness,Family can be a great comfort,0.85
+"That’s a good idea! I’ll suggest a picnic in the park next time we chat. Thanks, StoryBot.",Social Connectedness,I’ll suggest a picnic in the park next time we chat,0.85
+"I did. Still no luck. Also, my knees have been acting up. Makes it hard to get around!",Physical Safety,Makes it hard to get around,0.85
+"Yes, I have an appointment next week. Hope this app works better by then!",Health Agency,I have an appointment next week,0.85
+Hey StoryBot! I'm having a pretty rough morning. My anxiety is acting up again.,Emotional Regulation,My anxiety is acting up again,0.85
+"I just had a seizure last night. It's freaking me out, and I feel so lost.",Physical Safety,,0.55
+"Not yet. I have an appointment next week, but waiting is so hard.",Health Agency,I have an appointment next week,0.85
+"Yes, please! That would really help.",Support Utilization,That would really help,0.85
+"Thanks, StoryBot! I will definitely check them out. Hopefully, they'll help.",Optimism,"Hopefully, they'll help.",0.85
+"I was going to try to go for a walk, but I'm worried what if I have another seizure.",Physical Safety,I'm worried what if I have another seizure,0.9
+I didn't go for a walk after all. Just felt too anxious. I stayed inside.,Emotional Regulation,felt too anxious,0.85
+"I listened to 'Chill Vibes' yesterday. It was nice, helped me feel a bit better.",Emotional Regulation,helped me feel a bit better,0.85
+I need to tell them about the seizures for sure. It's kind of scary!,Health Agency,I need to tell them about the seizures,0.85
+"Thanks, StoryBot. I really appreciate your support!",Support Utilization,I really appreciate your support,0.85
+"Well, I wanted to know how to check my messages. But I end up tapping all sorts of things!",Autonomy,,0.55
+"I tried that, but it just makes me go in circles! Maybe I’m too old for this tech stuff.",Locus of Control,it just makes me go in circles,0.85
+"Yes, please! I need a little hand-holding.",Support Utilization,I need a little hand-holding,0.85
+"Well, I was just feeling a bit overwhelmed. Sometimes it feels lonely at my age.",Social Connectedness,it feels lonely,0.9
+"Not really. My kids are busy with their lives, and I feel like I’m just here. But I try my best!",Social Connectedness,"My kids are busy with their lives, and I feel like I’m just here",0.85
+"I’ve considered it, but going out feels hard on my legs these days.",Physical Safety,going out feels hard on my legs,0.85
+Maybe I’ll try! Just got to figure out how to set it up.,Growth Mindset,Maybe I’ll try,0.85
+"Good morning, StoryBot! I’m ready to try out this virtual chatting!",Growth Mindset,I’m ready to try out this virtual chatting,0.85
+"Alright, I’m creating an account. This is exciting!",Autonomy,I’m creating an account,0.85
+Got it! I hope I can meet some nice people on it. Thank you for your help!,Self-Efficacy,,0.55
+"Hi again, StoryBot! I actually got a Zoom link from my daughter!",Social Connectedness,got a Zoom link from my daughter,0.85
+"Yes, I did! It was a little nerve-racking but I did it!",Self-Efficacy,I did it,0.85
+It was nice to see my daughter and her friends! I felt a bit more connected.,Social Connectedness,I felt a bit more connected,0.9
+"Yes, I spoke with them last week. They told me to get more rest and take my meds regularly.",Health Agency,,0.55
+"Some nights I sleep fine, but others I just can’t seem to settle down.",Emotional Regulation,I just can’t seem to settle down,0.85
+"Yes, that could be helpful! I usually just watch TV, but maybe there’s a better way.",Growth Mindset,maybe there’s a better way,0.85
+Those sound nice! I’ll give them a shot. Thanks for your support.,Optimism,I’ll give them a shot,0.85
+Hi StoryBot! I tried reading before bed last night. It helped!,Emotional Regulation,It helped,0.85
+It was a lovely mystery novel. Just the distraction I needed!,Emotional Regulation,Just the distraction I needed,0.85
+Yes! I had forgotten how much I love reading. Thank you for encouraging me!,Social Connectedness,Thank you for encouraging me,0.85
+"Good morning, StoryBot! I’m thinking about trying a virtual book club. Got any tips?",Social Connectedness,trying a virtual book club,0.85
+I’ve heard of those! I’ll check them out. Thank you!,Autonomy,I’ll check them out,0.85
+I really look forward to it! I love sharing thoughts on stories with others.,Social Connectedness,I love sharing thoughts on stories with others,0.85
+"Morning, StoryBot! Just wanted to let you know I found a book club online!",Social Connectedness,I found a book club online,0.85
+It’s called ‘Readers Without Borders’. They meet every week for a virtual chat!,Social Connectedness,They meet every week for a virtual chat,0.85
+"Not yet, but I’m planning to join the next one. Looking forward to it!",Optimism,Looking forward to it,0.85
+Hi StoryBot! I had my first book club meeting yesterday!,Social Connectedness,I had my first book club meeting,0.85
+"It was fantastic! Everyone was so friendly, and we talked about the book for hours!",Social Connectedness,we talked about the book for hours,0.9
+Thank you! I feel so rejuvenated. It reminded me that I’m still part of a community.,Social Connectedness,I’m still part of a community,0.9
+It really is! I also want to make an effort to reach out to my family more.,Social Connectedness,reach out to my family more,0.9
+"I’ll definitely do that! Thanks for always being here for me, StoryBot.",Support Utilization,Thanks for always being here for me,0.85
+Hi StoryBot! I’m feeling so good today!,Optimism,I’m feeling so good today,0.85
+I had a lovely chat with my granddaughter yesterday! She’s such a joy.,Social Connectedness,I had a lovely chat with my granddaughter,0.9
+"She shared her school stories, and we laughed a lot. It reminded me of my youth!",Social Connectedness,we laughed a lot,0.85
+"I agree! I wish I could see her more often, though. It’s hard to be so far away.",Social Connectedness,I wish I could see her more often,0.9
+True! I just need to keep setting up those video calls.,Social Connectedness,setting up those video calls,0.85
+"I just feel so lonely sometimes, even though I’ve been trying to connect more.",Social Connectedness,I just feel so lonely sometimes,0.9
+Thank you for your kindness. Sometimes I just need a reminder!,Social Connectedness,Thank you for your kindness,0.85
+Not really. I don't want to burden them.,Social Connectedness,I don't want to burden them,0.85
+Good morning! I reached out to my daughter yesterday.,Social Connectedness,I reached out to my daughter,0.9
+It went really well! I shared how I’ve been feeling. She was so understanding.,Social Connectedness,I shared how I’ve been feeling,0.85
+It definitely did! I feel a lot lighter now.,Emotional Regulation,I feel a lot lighter now,0.85
+"Thank you, StoryBot! You’ve helped me so much through this.",Support Utilization,You’ve helped me so much through this,0.85
+"It’s the usual deadlines and meetings, you know? Plus, my kid has soccer practice tonight, so I’m trying to juggle everything. Sometimes I just need a breather!",Self-Efficacy,I’m trying to juggle everything,0.85
+"When I can, I love going for a quick jog or doing a short yoga session. It really helps clear my mind. How about you? How do you 'unwind'?",Self-Efficacy,,0.55
+"I enjoy a mix of light jogging and some flow yoga. It’s all about balance, right? Anyway, I need to get back to work, but I’ll check in later!",Values Alignment,It’s all about balance,0.85
+"I feel really tired, but good! Watching my kid play is such a joy. It makes me forget the hectic day.",Social Connectedness,Watching my kid play is such a joy,0.85
+"Sometimes I do! I mean, I’m not going to win any games, but it’s fun chasing them around. Plus, it gives me a chance to stay active!",Growth Mindset,it gives me a chance to stay active,0.85
+"Nothing major planned, just trying to keep the balance with work and family. Maybe a family hike this weekend.",Social Connectedness,,0.55
+We like to go to the nearby state park. It’s got beautiful trails and a nice lake. Great for making memories!,Values Alignment,making memories,0.85
+I try to go for about 30 minutes. It's my time to think and clear my mind. How's your day going?,Emotional Regulation,my time to think and clear my mind,0.85
+I've been thinking about starting a new hobby. Maybe pottery? Something relaxing.,Growth Mindset,thinking about starting a new hobby,0.85
+"Not yet! I've always wanted to, though. I love working with my hands.",Growth Mindset,I've always wanted to,0.85
+Good idea! I've signed up for a beginner’s class next weekend. Wish me luck!,Growth Mindset,signed up for a beginner’s class,0.85
+"Hey, StoryBot! Just had my pottery class! It was so much fun, but messy!",Growth Mindset,Just had my pottery class,0.85
+"I attempted a small bowl! It’s not perfect, but it’s a start. The instructor was super encouraging.",Growth Mindset,"It’s not perfect, but it’s a start",0.9
+"Definitely! I can’t wait for my next class. Also, my daughter is visiting this weekend.",Self-Efficacy,,0.55
+We’re thinking of going for a hike and maybe cooking dinner together. Family time is the best!,Social Connectedness,,0.55
+We love making homemade pizza! It’s so much fun to experiment with toppings.,Growth Mindset,experiment with toppings,0.85
+Back again! Had such a great time with my daughter! We hiked for 5 miles.,Social Connectedness,great time with my daughter,0.9
+"Challenging but invigorating! Plus, the views were gorgeous. I love when fall colors start.",Physical Safety,,0.55
+Yes! I got a few great shots of the landscape. I’ll have to share them next time.,Social Connectedness,I’ll have to share them next time,0.85
+Just deadlines piling up and feeling overwhelmed. I need to find a better balance.,Locus of Control,I need to find a better balance,0.85
+"Yes, I think I might reach out for some support. It’s hard to admit when I need help.",Support Utilization,reach out for some support,0.85
+Hey StoryBot! Just wanted to check in today. I've been feeling really motivated to improve my fitness this month. How about you?,Growth Mindset,motivated to improve my fitness,0.85
+I want to get back to running regularly and maybe even try some yoga to balance things out. I used to do it but fell off the wagon a bit.,Autonomy,,0.55
+I’m thinking of starting with a short run tomorrow morning. Just to get back into the groove! Fingers crossed I stick to it.,Growth Mindset,Just to get back into the groove,0.85
+Hey StoryBot! Just wanted to give you an update: I managed to run for 20 minutes this morning! It felt amazing! 🏃‍♂️,Self-Efficacy,I managed to run for 20 minutes,0.85
+"Physically, I felt a little tired but mostly good. Mentally, it was rewarding! I think I’ve reignited my passion for running.",Purpose,I’ve reignited my passion for running,0.85
+"Thinking about doing some yoga today! I haven’t done any in a while, and I really need to stretch!",Health Agency,Thinking about doing some yoga today,0.85
+"I love Hatha yoga for its balance, but I’m also trying to explore some flow classes. They seem energizing!",Growth Mindset,I’m also trying to explore some flow classes,0.85
+Back from yoga! It felt rejuvenating! I really missed that sense of calm that it brings.,Emotional Regulation,sense of calm that it brings,0.85
+I feel more flexible already! I can’t wait to see how my running improves too. I’m feeling hopeful.,Self-Efficacy,,0.55
+I plan on running again tomorrow. I’m feeling really committed this week! It’s nice to have some goals to focus on.,Purpose,It’s nice to have some goals to focus on.,0.85
+I did it! Just finished another run! Feeling pumped and ready for the day. Thanks for your support!,Self-Efficacy,I did it! Just finished another run!,0.85
+Hi StoryBot! It’s been a busy week for me. I tried a new recipe using quinoa that turned out great! How's your day going?,Growth Mindset,I tried a new recipe,0.85
+"I've been trying to stay active, but I've been struggling with plantar fasciitis lately. It’s tough to keep moving when my foot hurts!",Self-Efficacy,I've been trying to stay active,0.85
+"I've been doing some stretches, and I started using ice packs which help a bit. I’ve also been looking into shoe inserts. Any recommendations?",Health Agency,"I've been doing some stretches, and I started using ice packs",0.85
+"I enjoy swimming and cycling, but I can’t do much right now. It's frustrating because I love being active! But I need to take it easy.",Self-Efficacy,,0.55
+"Yes! I’ll try going to a yoga class. I haven't done that in ages! What’s new with you, StoryBot?",Growth Mindset,I’ll try going to a yoga class,0.85
+Oh really? I’d love to hear about those! I’m trying to eat healthier.,Health Agency,I’m trying to eat healthier,0.85
+Yes! I’ve been adding more leafy greens to my salads. I even tried making a spinach smoothie!,Health Agency,adding more leafy greens to my salads,0.85
+"I use banana, almond milk, and a touch of honey. It’s become my new morning routine!",Autonomy,my new morning routine,0.85
+"I think I have! I feel a bit more energetic. It’s empowering to make these changes, but I still need to manage my foot pain.",Health Agency,It’s empowering to make these changes,0.85
+"It’s slow, but I'm being patient. I’m using the ice, stretching, and avoiding long walks for now. It’s hard, but it’s necessary!",Health Agency,"I’m using the ice, stretching, and avoiding long walks",0.9
+"Thanks, StoryBot! I appreciate your support. I’ll keep implementing these health changes one step at a time!",Health Agency,I’ll keep implementing these health changes,0.85
+Hey StoryBot! I’ve been feeling a bit overwhelmed lately. 😕,Emotional Regulation,feeling a bit overwhelmed,0.85
+I’ve been dealing with these seizures... It’s scary. I don’t really know what to do.,Locus of Control,I don’t really know what to do,0.85
+"Yeah, I saw one last week. They’re running some tests, but it’s just hard to wait. I feel so out of control.",Locus of Control,I feel so out of control,0.9
+It’s firing on all cylinders! 😩 I’m finding it hard to focus on anything else but these worries.,Emotional Regulation,finding it hard to focus on anything else but these worries,0.85
+"I’ve been using some breathing exercises. They help a bit, but it’s not perfect.",Emotional Regulation,using some breathing exercises,0.9
+"Yeah, my friends are really supportive. I just hate to bother them with my issues.",Social Connectedness,my friends are really supportive,0.85
+You’re right. I should reach out more. I just get anxious about it.,Social Connectedness,I should reach out more,0.85
+That sounds doable! I’ll try that later today.,Self-Efficacy,I’ll try that later today,0.85
+Hey! I texted my friend and we talked. It was so nice! 😊,Social Connectedness,I texted my friend and we talked,0.9
+"It felt really relieving. I shared my worries, and they listened. It helped me feel less alone.",Social Connectedness,"I shared my worries, and they listened. It helped me feel less alone.",0.9
+I need to keep up with my doctor’s appointments and tests. I’m just trying not to stress about it too much.,Health Agency,keep up with my doctor’s appointments and tests,0.85
+Honestly? A bit better! Just trying to stay positive. ✨,Optimism,trying to stay positive,0.9
+"Well, I just got back from a hike in the mountains. The views were stunning! 🌄 My partner is reading this too and said I should ask you if it's safe to go hiking alone.",Physical Safety,if it's safe to go hiking alone,0.85
+That makes sense! The trail I went on was pretty busy anyway. My partner just said it sounds lovely. We should go together next time!,Social Connectedness,My partner just said it sounds lovely. We should go together next time!,0.85
+I try to take short breaks and go for walks. My partner says I need to meditate more! Do you think meditation helps?,Health Agency,I try to take short breaks and go for walks,0.85
+"Not really, but I'm open to it! My partner says it’s about time I explore new methods for relaxation. 😄",Growth Mindset,I explore new methods for relaxation,0.85
+Thanks! I feel better just talking about it. My partner is smiling; they think I’m making progress. 😊,Social Connectedness,My partner is smiling,0.85
+I think a cooking class could be fun! We’ve been wanting to try making healthier meals. My partner is up for it too!,Social Connectedness,My partner is up for it too,0.85
+"Maybe some veggie-packed recipes? We’re trying to eat healthier. Plus, it’ll be fun to learn new skills together! 😍",Growth Mindset,it’ll be fun to learn new skills together,0.85
+"Thanks, StoryBot! Time to get back to my day. Planning to squeeze in a quick walk later. My partner says they’re joining me too! 🌟",Social Connectedness,My partner says they’re joining me too,0.85
+"Hi again, StoryBot! We did the cooking class! It was so much fun. My partner says it was a great bonding time. 😊",Social Connectedness,great bonding time,0.85
+"We made a delicious stir-fry with tons of veggies! My partner loved it too, so we're adding it to our go-to meals! 🌱",Social Connectedness,My partner loved it too,0.85
+"Good morning, StoryBot! Just trying to figure out this new exercise routine. I feel so lost at times.",Growth Mindset,trying to figure out this new exercise routine,0.85
+"Well, I'm trying to incorporate strength training into my workouts. But I'm not sure where to begin. Just feels like... too much info to digest.",Growth Mindset,I'm trying to incorporate strength training into my workouts,0.85
+"Yes, please! That would be great. Just really want to make some progress and not give up.",Growth Mindset,really want to make some progress and not give up,0.85
+"I like walking, and I used to do yoga. Strong-ish on flexibility, but strength? Not so much. 😂",Growth Mindset,"Strong-ish on flexibility, but strength? Not so much.",0.85
+"Hey again, StoryBot! So, I tried a short strength workout yesterday. It was tough! Felt like jelly afterward. 😂",Self-Efficacy,I tried a short strength workout yesterday,0.85
+"Surprisingly satisfying! I love the challenge. Just a bit sore today, but nothing too bad. 📈",Growth Mindset,I love the challenge,0.85
+"Ohh, for sure! It's motivating seeing progress. I might even try to add weights next time!! 🎉",Growth Mindset,I might even try to add weights next time,0.85
+Thanks! Can’t wait to update you on my next workout! 💪,Growth Mindset,update you on my next workout,0.85
+Just juggling work and family responsibilities is so tiring. I’m finding it hard to keep up.,Social Connectedness,,0.55
+"Not much. I try to sneak in some walks, but I don't feel like I have the energy for anything more.",Self-Efficacy,I try to sneak in some walks,0.85
+It's been weeks. I can feel my mood affecting my relationship with my kids too.,Self-Efficacy,,0.55
+Not really. I don’t want to burden them. I just keep saying I’m tired when they ask.,Social Connectedness,I don’t want to burden them,0.85
+That’s good advice. I’ll try to focus on the small things. It’s just hard to break the cycle sometimes.,Growth Mindset,I’ll try to focus on the small things,0.85
+I think I’ll give that a shot. I just need to remember to do it. Thank you for the idea!,Growth Mindset,I think I’ll give that a shot,0.85
+It's been a few days since we last spoke. I started writing down my gratefulness. It’s surprisingly uplifting!,Optimism,writing down my gratefulness,0.85
+"I’m feeling a little lighter! Also, I spoke to my kids about my feelings. They were very understanding.",Social Connectedness,I spoke to my kids about my feelings,0.9
+It felt really good. I think it brought us closer. I’ve realized I can lean on them more.,Self-Efficacy,,0.55
+I think I want to keep this momentum going. Maybe pursue a hobby! I used to love painting.,Autonomy,,0.55
+It's been years! I think it could be an enjoyable way to unwind and process my emotions.,Emotional Regulation,process my emotions,0.85
+Hey StoryBot! I'm feeling really motivated today. Just went for a run and it felt great!,Optimism,feeling really motivated today,0.85
+I did about 4 miles! I’ve been trying to stick to a routine since the summer ended. How do you stay on track?,Growth Mindset,I’ve been trying to stick to a routine,0.85
+I’m aiming to run a 10k next month! Wish me luck! How’s your day going?,Purpose,I’m aiming to run a 10k next month,0.9
+"Haha, I can imagine! So, any tips for keeping motivated during the cold months ahead?",Self-Efficacy,,0.55
+"Not yet, but that sounds fun! I usually run alone. It might be nice to have company for a change.",Social Connectedness,It might be nice to have company for a change.,0.85
+"I went for a run this morning! It was cold, but I felt accomplished afterward. I've also been using my treadmill more.",Self-Efficacy,I felt accomplished afterward,0.85
+I’ve been mixing it up with interval training and listening to podcasts. It makes the time fly!,Growth Mindset,mixing it up with interval training,0.85
+I’ve been really into 'How I Built This.' It's so inspiring to hear entrepreneurs share their stories!,Growth Mindset,It's so inspiring to hear entrepreneurs share their stories,0.85
+"Honestly, I’ve had some ups and downs. Some days I feel on top of the world, while other days it’s just hard to get motivated.",Emotional Regulation,"Some days I feel on top of the world, while other days it’s just hard to get motivated",0.85
+"I try to take a step back and do something I enjoy, like baking or reading. It helps me recharge!",Emotional Regulation,It helps me recharge,0.85
+"Like I said yesterday, I’m trying to get back into shape. It feels so great to run again. I missed it a lot!",Growth Mindset,I’m trying to get back into shape,0.85
+Definitely! I feel more energetic during the day. You remember what I told you last week about trying yoga? I started that too!,Growth Mindset,I started that too,0.85
+"It's tough, but I love it! It’s a different kind of workout and really helps me relax. I feel more flexible already!",Growth Mindset,I feel more flexible already,0.85
+A few! It's nice sharing the experience with others. We even plan to go hiking next weekend.,Social Connectedness,sharing the experience with others,0.85
+"It'll be great! By the way, work has been keeping me busy, but I'm managing to fit in my workouts!",Self-Efficacy,I'm managing to fit in my workouts,0.85
+"I set reminders on my phone. It helps me not to skip my workouts or yoga sessions. You know, it’s fun really!",Health Agency,I set reminders on my phone,0.85
+"I love running outdoors! It’s amazing how fresh air boosts my mood. Plus, I like listening to music while I run!",Optimism,fresh air boosts my mood,0.85
+A mix of upbeat pop and some classic rock! Nothing like running to some good ol' Queen!,Optimism,Nothing like running to some good ol' Queen,0.85
+"I was thinking of trying out swimming. I used to enjoy it, and it's a great full-body workout.",Growth Mindset,I was thinking of trying out swimming,0.85
+"Yeah, there's one a few blocks away! Over the past few weeks, I've been feeling a lot more motivated to stay active.",Growth Mindset,feeling a lot more motivated to stay active,0.85
+"Hey StoryBot, sorry I’ve been quiet the last few days. Work has been hectic, but I'm sticking to my workouts!",Self-Efficacy,I'm sticking to my workouts,0.85
+"Thanks! I started swimming last week. It feels refreshing! I know I told you about it before, but it’s even better than I remembered.",Growth Mindset,I started swimming last week,0.85
+Hey StoryBot! I'm feeling pretty good today. Just finished a great workout and heading out for a hike. How about you?,Optimism,I'm feeling pretty good today,0.85
+"Maybe some beautiful fall colors? I've been feeling a bit unmotivated lately, but today is different. Just trying to embrace nature!",Physical Safety,,0.55
+Just to enjoy it without pressure. Oh! I might even try to capture some photos. 😄,Autonomy,Just to enjoy it without pressure,0.85
+Yes! I love taking pictures! But I’ve been feeling a bit down since my last hike. Everything just seemed dull and flat.,Optimism,I’ve been feeling a bit down since my last hike,0.85
+"Just feeling a bit lost lately, like I’m not really connecting with anything, not even nature. It sucks!",Social Connectedness,not really connecting with anything,0.85
+"Maybe trying a new place? I really enjoy exploring, but I’ve been stuck in the same routines. 😞",Growth Mindset,I really enjoy exploring,0.85
+There's a national park nearby that I’ve always wanted to check out. But what if it doesn’t live up to my expectations? 😔,Optimism,what if it doesn’t live up to my expectations,0.85
+"I just want to feel alive again, you know? It’s all been a bit too dull lately. I miss that spark. 😩",Optimism,I just want to feel alive again,0.85
+I think stepping out of my comfort zone could be it. Maybe I should join a local hiking group or something. It’s just a bit intimidating.,Growth Mindset,stepping out of my comfort zone,0.85
+Absolutely! That would be awesome! I really want to change my mindset and approach things more positively.,Growth Mindset,I really want to change my mindset,0.9
+"Thanks, StoryBot! I think I’ll give it a shot. I appreciate your support. 😊 Maybe I'll find that spark again!",Optimism,Maybe I'll find that spark again,0.85
+"Hey StoryBot! I've been trying to get back into a fitness routine, but it's kind of tough. Any tips?",Growth Mindset,trying to get back into a fitness routine,0.85
+I love hiking and swimming! I find them relaxing but challenging at the same time. 🏊‍♀️🌲,Growth Mindset,I find them relaxing but challenging at the same time,0.85
+That sounds like a good idea. I could start with a distance goal for hiking. Maybe 3 miles this week?,Purpose,start with a distance goal for hiking,0.85
+"To be honest, I'm a bit nervous. What if I can't make it? Oh, and I also have some work stuff coming up that might conflict.",Self-Efficacy,,0.55
+"You're right. I could do shorter walks if I need to. Wait, I didn't mean to hit send—what I was trying to say is that I might also do some evening swims.",Autonomy,I could do shorter walks if I need to,0.85
+"Not yet, I should really do that. I'm also getting a bit tired of my routine—I've been doing the same things for a while.",Growth Mindset,I'm also getting a bit tired of my routine,0.85
+"I've thought about yoga! Dance classes sound fun too, but I worry I'm not coordinated enough.",Growth Mindset,I've thought about yoga,0.85
+That's a good perspective! I think I could try a beginner class next week. My daughter is interested too!,Growth Mindset,I think I could try a beginner class next week,0.85
+"Not really. I usually just push through, but I know that's not healthy. I think I need to work on that.",Growth Mindset,I think I need to work on that,0.85
+"That might help! I could set a timer to remind myself to breathe and stretch. Speaking of which, I enjoyed my dance class today!",Health Agency,set a timer to remind myself to breathe and stretch,0.85
+"It was so much fun! I felt a bit awkward at first, but I really got into it by the end. I think I'm going to keep going! 🎉",Growth Mindset,I think I'm going to keep going,0.85
+"Yes, I signed up for another one! I’m feeling more motivated with all the activities I’ve been doing lately.",Growth Mindset,I’m feeling more motivated with all the activities I’ve been doing lately,0.85
+"It's still stressful, but I feel like I have more energy to handle it now that I'm staying active. Thanks for your support!",Self-Efficacy,I feel like I have more energy to handle it,0.85
+Hey StoryBot! Just trying to get a grip on my health. I’ve been feeling a bit sluggish lately and I think it’s time for a change.,Locus of Control,I think it’s time for a change,0.85
+I think I want to start eating healthier and maybe get back into running. I used to love it!,Autonomy,,0.55
+I guess it’s just the thought of the effort involved. Sometimes it feels overwhelming.,Self-Efficacy,it feels overwhelming,0.85
+"Maybe just taking a short walk. It’s not running, but it’s a start, right?",Growth Mindset,it’s a start,0.85
+It went surprisingly well! I felt good afterward. I think I can expand on this.,Self-Efficacy,,0.55
+"I’m thinking of trying to jog a little tomorrow. Nothing crazy, just to see how it feels.",Growth Mindset,just to see how it feels,0.85
+"Ran a little today! It was a bit rough, but I did it! I think I might really be able to stick to this.",Growth Mindset,I might really be able to stick to this,0.85
+I’d like to focus on my diet too. I’ve been eating too much junk. Need to up my fruit and veggie game!,Health Agency,I’d like to focus on my diet,0.85
+I can definitely do that! You know what? I think I *can* do this! I’m feeling inspired!,Self-Efficacy,I can definitely do that,0.9
+Tried the salad and it was great! I'm excited to keep this momentum going.,Optimism,I'm excited to keep this momentum going,0.85
+I’m starting to enjoy it more! I ran a bit longer today without feeling wiped out.,Growth Mindset,I ran a bit longer today without feeling wiped out,0.85
+I think I’ll aim to run a 5K by the end of October. Sounds like a fun challenge!,Purpose,I think I’ll aim to run a 5K,0.9
+Thanks StoryBot! I really appreciate your support. I feel like I’m on the right track now.,Optimism,I feel like I’m on the right track now,0.85
+I think I’m going to run with a friend this weekend! That’ll help keep me accountable.,Social Connectedness,run with a friend,0.85
+"Well, I'm actually trying to get back into shape. I used to run marathons, but after my knee surgery last year, it’s been tough. I'm determined to get fit again!",Growth Mindset,I'm determined to get fit again,0.9
+"Thanks! Honestly, it's a bit frustrating. Some days I feel like I'm moving backwards. I remember when I used to run every day without even thinking about it! That taught me that sometimes, life just doesn't go as planned.",Locus of Control,life just doesn't go as planned,0.85
+"I learned that resilience is key. I'll never forget running my first marathon. I was so scared, but I pushed through and completed it. That feeling of crossing the finish line was indescribable!",Growth Mindset,I learned that resilience is key,0.85
+I think I need to remind myself that it’s okay to have setbacks. Maybe I should celebrate the small victories instead of focusing on the end goal.,Self-Compassion,remind myself that it’s okay to have setbacks,0.85
+"I managed to jog for 15 minutes nonstop! It felt amazing, and I was so proud of myself!",Self-Efficacy,I managed to jog for 15 minutes nonstop,0.9
+Thanks! I'm planning to try some strength training to help my knee. I think it will help stabilize everything!,Health Agency,I'm planning to try some strength training to help my knee,0.85
+I found a beginner routine online that focuses on low-impact exercises. I’ll take it slow and listen to my body!,Health Agency,I found a beginner routine online,0.85
+"Good advice! I’ll take that to heart. Thanks, StoryBot! I’ll keep you posted on my progress!",Growth Mindset,I’ll keep you posted on my progress,0.85
+Hey StoryBot! I've finally decided to take my health seriously. I signed up for a yoga class yesterday! 🧘‍♂️,Health Agency,I signed up for a yoga class,0.9
+"Honestly, I'm a bit nervous. I haven't exercised in a while. But I'm excited to meet new people and do something positive for myself!",Optimism,I'm excited to meet new people and do something positive for myself,0.85
+"Hey, I just finished my first yoga class! It was fantastic, though I was a bit wobbly at times. 😅",Growth Mindset,finished my first yoga class,0.85
+Yes! The instructor was very encouraging. I can’t wait for the next class! 🌟,Self-Efficacy,,0.55
+I’ve been thinking about that! Maybe some walking or cycling on the days I don’t have yoga. Just gotta get moving! 🚶‍♂️,Health Agency,Just gotta get moving,0.85
+"Ugh, I skipped my yoga class yesterday. I felt so tired and unmotivated. 😔",Self-Efficacy,I felt so tired and unmotivated,0.85
+"That’s a good idea! I’ll try to roll out my mat and do something light. Thanks for the support, StoryBot! 😊",Support Utilization,Thanks for the support,0.85
+I just got back from a long walk! Feeling energized and ready to tackle the day! 🥳,Optimism,Feeling energized and ready to tackle the day,0.85
+I’m meeting a friend for coffee later. It’s nice to have a mix of health and social time!,Social Connectedness,meeting a friend for coffee,0.85
+"Just had such a good time! My friend is starting yoga too, so we can motivate each other. ☕️💪",Social Connectedness,"My friend is starting yoga too, so we can motivate each other",0.85
+Hey StoryBot! I'm feeling pretty good today. Ready to tackle my to-do list. How about you?,Self-Efficacy,Ready to tackle my to-do list,0.85
+"I have some grocery shopping, laundry, and I want to start a new book. What do you think?",Autonomy,I want to start a new book,0.85
+"I hope so! Great, I’ll try to squeeze in some reading tonight. I'll let you know what I think!",Growth Mindset,I’ll try to squeeze in some reading tonight,0.85
+I might try to read a chapter or two from my book today if I can squeeze it in.,Self-Efficacy,,0.55
+"Just some errands and organizing paperwork. Nothing too exciting, but necessary!",Autonomy,organizing paperwork,0.85
+"Good morning, StoryBot! I finally started reading 'The Midnight Library' last night! It's captivating!",Growth Mindset,I finally started reading,0.85
+I love the idea of exploring alternate lives based on choices. It’s really got me thinking!,Autonomy,exploring alternate lives based on choices,0.85
+Absolutely! I can't wait to see where the story goes. Thanks for encouraging me to pick it up!,Self-Efficacy,,0.55
+I did a mix of cardio and strength training. I'm trying to build some muscle while keeping my heart healthy. How about you? What have you been up to?,Health Agency,I did a mix of cardio and strength training,0.85
+Definitely! I’m aiming for a 5K run next month. I want to improve my time from last year. It’s a fun challenge!,Autonomy,,0.55
+"I finished it in 35 minutes. I'd love to get it down to 30 this year. It’ll be tough, but I’m committed!",Growth Mindset,I'd love to get it down to 30 this year,0.9
+Yes! I'm following a 5K training schedule that ramps up my distance each week. I also mix in strength to keep my legs strong.,Purpose,I'm following a 5K training schedule,0.85
+"I like to run with a friend sometimes. We push each other, and it’s much more fun that way! Plus, we laugh a lot.",Social Connectedness,I like to run with a friend,0.9
+"Pretty good! I’ve been busy with work, but I’m trying to maintain a better work-life balance. It’s a challenge for sure.",Self-Efficacy,I’m trying to maintain a better work-life balance,0.85
+I’ve started setting firm boundaries for my work hours. I also block off time for myself to relax and unwind.,Autonomy,I’ve started setting firm boundaries for my work hours,0.9
+"I’ve planted tomatoes, basil, and some flowers. Watching them grow is so satisfying!",Growth Mindset,Watching them grow is so satisfying,0.85
+"Not yet, but I can't wait! I’m planning to make a fresh salsa. What’s your favorite dish with tomatoes?",Self-Efficacy,,0.55
+"Yum! That's a great choice. I should try making that too. Anyway, I have to get back to work now. Talk later!",Growth Mindset,I should try making that too,0.85
+It was hectic! But I managed to get through it. How about you? What have you been up to?,Self-Efficacy,I managed to get through it,0.9
+I can’t wait to get back to my training for the 5K! I also want to spend some time with family this weekend.,Self-Efficacy,,0.55
+Yes! We’re having a little get-together at my place. I’m going to make that salsa I talked about!,Social Connectedness,We’re having a little get-together,0.85
+It's thriving! The tomatoes are almost ready to pick! I might have more than I can use!,Self-Efficacy,,0.55
+Great idea! I’ll make a salad with them too. Fresh from the garden is always a hit!,Autonomy,I’ll make a salad,0.85
+Just some quality time with my grandchildren! We’re planning to play some board games together.,Social Connectedness,quality time with my grandchildren,0.9
+I love playing Scrabble! My grandkids are starting to get the hang of it. What about you? Any favorite games?,Social Connectedness,My grandkids are starting to get the hang of it,0.85
+"So true! There's nothing like a good trivia challenge to get everyone hyped up. Anyway, I should get back to work now!",Social Connectedness,get everyone hyped up,0.85
+I’ve been good! Busy with work and family. Just finished my 5K last weekend and I did it in 32 minutes!,Social Connectedness,,0.55
+"Thanks! It was so much fun, and the support from everyone was incredible. I pushed myself, but it was worth it!",Social Connectedness,the support from everyone was incredible,0.85
+"I’m thinking of training for a half marathon! It sounds challenging, but exhilarating too!",Purpose,training for a half marathon,0.85
+"Not yet, but planning to start in the next few weeks. I want to ensure I'm ready for the distance!",Autonomy,,0.55
+"Thank you! I appreciate your support. It really helps me stay motivated! Now, I must get back to work for the day.",Support Utilization,I appreciate your support,0.85
+"Hey StoryBot! I've been feeling a little stuck lately. I believe that I need a change in my routine, but I don't know where to start.",Locus of Control,I believe that I need a change in my routine,0.85
+"I think that my workout schedule is too monotonous. I used to enjoy yoga, but now I feel like I do the same thing every week. Maybe it’s time to explore some new classes?",Growth Mindset,Maybe it’s time to explore some new classes,0.85
+"I think I might enjoy kickboxing or maybe even some dance classes. People say I have a good rhythm, but I haven’t danced in so long!",Growth Mindset,I think I might enjoy kickboxing or maybe even some dance classes,0.85
+"I signed up for a kickboxing class! I believe it will be a great change, but I am a bit nervous about how challenging it might be.",Growth Mindset,I believe it will be a great change,0.85
+"I had my first kickboxing class today! I think it went pretty well! It felt empowering, and I believe I can get stronger with practice.",Self-Efficacy,,0.55
+"I think I will try to go to at least two classes a week. Discipline is key, right? But I also want to enjoy the process and not make it feel like a chore.",Growth Mindset,I think I will try to go to at least two classes a week,0.85
+"Yes, actually. I’ve started meditating for 10 minutes a day. I believe taking that time for myself really helps me feel centered.",Emotional Regulation,meditating for 10 minutes a day,0.9
+I feel calmer and more focused. I think it’s really helping me manage my stress levels. I hope I can continue to grow this habit.,Self-Efficacy,,0.55
+I've also been thinking about my work-life balance. I believe I need to set clearer boundaries at work to have more time for myself.,Autonomy,I believe I need to set clearer boundaries at work,0.85
+I think I’ll start by limiting my work hours and reserving that time for myself. Maybe I can use that time for more self-care or hobbies.,Self-Efficacy,,0.55
+"I love painting, and I think I might return to that. Art has always been a source of happiness for me.",Values Alignment,Art has always been a source of happiness for me,0.85
+"I’m thinking landscapes. I believe they remind me of tranquility, and I think I can pour my feelings into them.",Self-Efficacy,,0.55
+I’m starting to gather supplies and plan my first canvas. I think diving back into art will be therapeutic for me.,Growth Mindset,diving back into art,0.85
+"Overall, I feel a sense of renewal! I believe I’m on the right path towards finding more joy and balance in my life. Thanks for being here, StoryBot!",Optimism,I believe I’m on the right path towards finding more joy and balance in my life,0.85
+Definitely the views at the summit! It felt so rewarding after the climb. I wish every day could be like this.,Optimism,I wish every day could be like this.,0.85
+I’m planning a weekend trip to the coast next! I can’t wait to explore the beaches.,Self-Efficacy,,0.55
+"A mix of both! I love splashing around in the water, but I also cherish reading a good book by the waves.",Values Alignment,I also cherish reading a good book by the waves,0.85
+"I’m torn between a new mystery novel and a light-hearted travel memoir. Decisions, decisions!",Autonomy,I’m torn between a new mystery novel and a light-hearted travel memoir,0.85
+That's a great idea! I tend to read more pages when I have options. Thank you!,Autonomy,I tend to read more pages when I have options,0.85
+"It’s been pretty busy at work. I’m feeling a bit overwhelmed, to be honest.",Emotional Regulation,I’m feeling a bit overwhelmed,0.85
+I try going for short walks during breaks. It really helps to clear my mind.,Emotional Regulation,It really helps to clear my mind,0.85
+Yes! There’s a cute little park a few blocks away. I love sitting by the pond.,Values Alignment,I love sitting by the pond,0.85
+Absolutely! I’ve even started journaling there. It’s a great escape from work.,Emotional Regulation,journaling,0.85
+"I’ve realized I need to find more balance. I love my adventures, but I also need downtime.",Values Alignment,I need to find more balance,0.85
+"Honestly, I might need to set aside specific days just for relaxing. It’s hard to prioritize that.",Self-Compassion,I might need to set aside specific days just for relaxing,0.85
+That could work! Thanks for the suggestion. I’ll give it a try.,Growth Mindset,I’ll give it a try,0.85
+"Hey StoryBot! I’ve been making more time for relaxation lately, and it’s been wonderful.",Self-Compassion,making more time for relaxation,0.85
+"I’ve started some new hobbies, like painting and gardening! It feels great to express myself.",Growth Mindset,started some new hobbies,0.85

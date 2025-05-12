@@ -19,29 +19,29 @@ curl -X POST http://localhost:8000/beliefs \
      -d @data/sample_conversations.json | jq
 ```
 
-🏗️ Architecture
-<!-- add your image -->
+## 🏗️ Architecture
+docs/architecture.md#system-context
 
-🧑‍💻 Local dev
-bash
-Copy
-Edit
+## 🧑‍💻 Local dev
+```bash
 make dev            # uvicorn reload + hot-watch
 make test           # pytest, coverage, mypy
-📜 API contract
-See schemas.py – response includes per-facet
+```
+
+## 📜 API contract
+See `schemas.py` – response includes per-facet
 confidence, evidence span, and pillar rollups.
 
-📈 Observability
-Prometheus metrics at /metrics:
+## 📈 Observability
+Prometheus metrics at `/metrics`:
 
-belief_latency_ms
+`belief_latency_ms`
 
-belief_drift_kl
+`belief_drift_kl`
 
-belief_confidence_bucket{facet}
+`belief_confidence_bucket{facet}`
 
-🛡️ Security & compliance
+## 🛡️ Security & compliance
 TLS-only, JWT auth, AES-256 at rest
 
-No PII in logs; Right-to-Delete cascade script in scripts/
+No PII in logs; Right-to-Delete cascade script in `scripts/`
